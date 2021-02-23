@@ -1,0 +1,15 @@
+# Competency/Area:
+# ---------------------------
+# Knowledge of working with REST APIs
+#
+# Assignment/Tasks
+# --------------------------
+# Understand REST APIs. Write sample program and include at least 3 different API invocations. Handle exceptions and timing issues.
+#
+# DefinitionOfDone :
+# --------------------------
+# Program runs without problem.
+#
+# Acceptance Criteria
+# ------------------------------
+# Program output should demonstrate coverage of different timings for successful calls and how failed calls were handled
